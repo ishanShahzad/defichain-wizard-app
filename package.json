@@ -1,6 +1,6 @@
 {
   "name": "defichain-wizard",
-  "version": "1.1.11",
+  "version": "1.1.12",
   "scripts": {
     "start": "expo start --dev-client",
     "android": "expo run:android",
@@ -55,7 +55,8 @@
     "stream-browserify": "^1.0.0",
     "tailwindcss-react-native": "^1.7.10",
     "util": "^0.10.4",
-    "yup": "^0.32.11"
+    "yup": "^0.32.11",
+    "axios": "^1.9.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
